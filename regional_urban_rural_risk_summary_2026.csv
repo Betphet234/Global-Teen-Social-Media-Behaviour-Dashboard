@@ -1,0 +1,109 @@
+continent,region,income_group,urban_rural,teen_records,avg_screen_time_hours,avg_addiction_score,avg_mental_health_risk,avg_physical_health_risk,avg_academic_risk,avg_digital_wellbeing,cyberbullying_rate,harmful_content_exposure_rate
+Africa,North Africa,Low,Rural,27,3.9744,47.7763,38.7622,24.06,24.2137,84.6359,0.1481,0.2593
+Africa,North Africa,Low,Semi-urban,24,3.8696,44.3521,33.4396,19.9962,24.4233,88.4608,0.1667,0.1667
+Africa,North Africa,Low,Urban,57,4.5568,48.3677,38.3198,27.0742,26.0547,85.786,0.0877,0.0877
+Africa,North Africa,Lower-middle,Rural,104,4.2192,46.179,36.2374,23.5799,25.7005,86.8076,0.1635,0.1538
+Africa,North Africa,Lower-middle,Semi-urban,113,4.3346,47.0115,37.1311,23.8788,25.3068,86.1893,0.1593,0.1327
+Africa,North Africa,Lower-middle,Urban,205,4.4226,47.4558,37.2513,26.4558,24.812,85.396,0.1659,0.1659
+Africa,North Africa,Upper-middle,Rural,31,4.2339,46.0145,38.7997,24.0835,25.571,87.3787,0.0968,0.0645
+Africa,North Africa,Upper-middle,Semi-urban,29,4.6755,49.7652,37.1817,26.1479,25.6793,84.4631,0.1724,0.1034
+Africa,North Africa,Upper-middle,Urban,51,5.0006,49.8096,38.2824,30.9871,27.0327,84.5061,0.1373,0.098
+Africa,Sub-Saharan Africa,Low,Rural,115,4.0383,48.3251,37.259,21.5723,24.3774,86.1755,0.1217,0.1391
+Africa,Sub-Saharan Africa,Low,Semi-urban,107,4.2419,46.035,37.1217,23.6522,24.9041,87.0563,0.1028,0.1215
+Africa,Sub-Saharan Africa,Low,Urban,279,4.3744,47.83,37.9019,26.2819,25.4493,85.4285,0.172,0.1075
+Africa,Sub-Saharan Africa,Lower-middle,Rural,250,4.2576,47.5002,37.6506,22.5511,25.0338,86.4346,0.128,0.148
+Africa,Sub-Saharan Africa,Lower-middle,Semi-urban,219,4.4339,47.7923,37.3779,25.763,24.6686,85.8209,0.1233,0.1461
+Africa,Sub-Saharan Africa,Lower-middle,Urban,484,4.6722,48.9904,38.0698,27.7223,25.5663,85.0098,0.155,0.1054
+Africa,Sub-Saharan Africa,Upper-middle,Rural,17,4.5247,46.6076,35.7994,26.3424,24.8188,86.7453,0.1176,0.1176
+Africa,Sub-Saharan Africa,Upper-middle,Semi-urban,26,4.5227,49.8885,37.7042,26.7562,25.3092,86.0285,0.0769,0.0385
+Africa,Sub-Saharan Africa,Upper-middle,Urban,50,4.4898,47.9704,39.062,26.235,25.5588,85.3622,0.1,0.18
+Asia,Central Asia,Lower-middle,Rural,34,4.0085,45.3897,36.9985,20.7918,24.3606,86.8224,0.2353,0.0294
+Asia,Central Asia,Lower-middle,Semi-urban,25,4.2404,48.9696,37.2824,28.1804,26.216,84.052,0.16,0.24
+Asia,Central Asia,Lower-middle,Urban,52,4.4342,47.415,38.2337,29.1223,24.9969,85.1,0.1538,0.1923
+Asia,Central Asia,Upper-middle,Rural,53,4.4725,46.2832,36.6392,23.87,25.0436,87.3396,0.1132,0.1509
+Asia,Central Asia,Upper-middle,Semi-urban,28,4.5261,49.7075,36.9932,26.9204,24.9714,84.855,0.1429,0.2143
+Asia,Central Asia,Upper-middle,Urban,97,4.7935,50.8044,38.6714,28.559,25.9468,83.629,0.1649,0.1546
+Asia,East Asia,High,Rural,63,4.883,50.3962,38.9916,26.2784,25.8089,84.1889,0.2222,0.0635
+Asia,East Asia,High,Semi-urban,66,4.8759,50.3148,37.8276,28.982,25.6944,84.3271,0.1364,0.1667
+Asia,East Asia,High,Urban,117,4.8364,49.7235,38.5262,28.7485,26.2388,84.331,0.1709,0.1368
+Asia,East Asia,Lower-middle,Rural,22,3.9927,46.2105,36.6268,19.8695,23.5855,87.1641,0.1364,0.1818
+Asia,East Asia,Lower-middle,Semi-urban,25,4.282,51.0992,39.2016,26.7972,25.5708,83.3452,0.28,0.04
+Asia,East Asia,Lower-middle,Urban,54,4.5259,48.5796,37.903,28.1428,26.1487,84.7567,0.1296,0.1481
+Asia,East Asia,Upper-middle,Rural,20,4.871,51.628,42.14,33.6885,27.6225,81.639,0.2,0.15
+Asia,East Asia,Upper-middle,Semi-urban,28,4.5875,51.0111,39.8896,31.1296,27.0089,83.8036,0.0714,0.1071
+Asia,East Asia,Upper-middle,Urban,59,4.7892,51.85,39.1169,28.5024,26.0941,83.4005,0.1186,0.1186
+Asia,Middle East,High,Rural,177,4.7182,48.8651,38.3637,25.4992,25.7421,85.4369,0.1469,0.1186
+Asia,Middle East,High,Semi-urban,157,5.0136,51.3021,39.6975,29.4112,26.0722,83.015,0.1783,0.1274
+Asia,Middle East,High,Urban,358,4.9587,50.6089,39.3958,30.1062,26.6873,83.6584,0.1453,0.1145
+Asia,Middle East,Low,Rural,61,4.1725,46.9713,36.1984,21.2713,23.8485,87.8934,0.0492,0.082
+Asia,Middle East,Low,Semi-urban,50,4.463,45.7972,36.6586,25.6094,25.3858,87.6044,0.12,0.08
+Asia,Middle East,Low,Urban,116,4.3872,47.3528,38.1507,26.8872,24.8318,85.7658,0.1121,0.1293
+Asia,Middle East,Lower-middle,Rural,87,4.174,47.4033,36.883,23.4657,25.2068,86.8283,0.1149,0.1494
+Asia,Middle East,Lower-middle,Semi-urban,56,4.6634,49.2577,37.4716,25.0611,25.8268,85.53,0.1429,0.1071
+Asia,Middle East,Lower-middle,Urban,151,4.7365,48.3571,38.0359,28.6005,26.3541,84.945,0.1457,0.1656
+Asia,Middle East,Upper-middle,Rural,26,4.9358,50.3292,37.8604,30.8146,27.075,83.79,0.2692,0.0385
+Asia,Middle East,Upper-middle,Semi-urban,24,4.5317,45.905,38.3675,25.865,24.0633,86.0417,0.125,0.125
+Asia,Middle East,Upper-middle,Urban,57,4.8668,50.4788,38.5381,28.4919,27.5467,83.3026,0.193,0.1579
+Asia,South Asia,Low,Rural,29,4.0393,47.2266,37.9193,22.0455,24.7966,86.5479,0.1379,0.1034
+Asia,South Asia,Low,Semi-urban,33,4.393,47.9218,37.9773,25.7488,25.5494,85.06,0.1515,0.1515
+Asia,South Asia,Low,Urban,48,4.166,44.1002,34.835,25.8483,25.4333,88.4792,0.0833,0.125
+Asia,South Asia,Lower-middle,Rural,139,4.1523,46.0145,36.8554,23.0197,24.79,86.8491,0.1799,0.1079
+Asia,South Asia,Lower-middle,Semi-urban,105,4.4999,47.5387,37.7257,26.3647,25.041,85.5906,0.1238,0.1048
+Asia,South Asia,Lower-middle,Urban,275,4.5797,48.6448,37.8493,27.339,25.2297,85.4503,0.1273,0.1127
+Asia,Southeast Asia,High,Rural,26,4.6931,46.9123,38.3181,26.2119,26.0023,86.3762,0.0769,0.1538
+Asia,Southeast Asia,High,Semi-urban,27,5.2541,52.8315,41.303,31.0748,28.1304,82.4959,0.1111,0.1111
+Asia,Southeast Asia,High,Urban,53,4.9926,48.3534,38.8774,30.1872,25.8802,85.2792,0.0943,0.1132
+Asia,Southeast Asia,Lower-middle,Rural,102,4.3447,45.1024,36.6438,23.4032,25.0521,87.0665,0.1471,0.1765
+Asia,Southeast Asia,Lower-middle,Semi-urban,92,4.6301,48.1079,37.8996,27.9962,26.0621,85.1888,0.1196,0.1739
+Asia,Southeast Asia,Lower-middle,Urban,224,4.4838,47.6503,37.2071,26.0202,25.3283,85.8433,0.1607,0.1384
+Asia,Southeast Asia,Upper-middle,Rural,81,4.6351,49.8977,39.3642,25.9009,25.8437,84.4428,0.1728,0.0988
+Asia,Southeast Asia,Upper-middle,Semi-urban,73,4.6051,47.1884,37.8379,28.3159,25.2432,85.1178,0.1781,0.137
+Asia,Southeast Asia,Upper-middle,Urban,173,4.8135,49.3481,38.9174,29.6976,25.3999,84.3316,0.1272,0.1272
+Asia/Europe,Middle East,Upper-middle,Rural,25,4.6564,48.6016,38.8356,24.9316,26.748,83.3372,0.32,0.16
+Asia/Europe,Middle East,Upper-middle,Semi-urban,30,4.9527,51.5223,38.49,29.0307,26.8317,83.1743,0.2,0.1333
+Asia/Europe,Middle East,Upper-middle,Urban,50,4.8302,49.9574,38.8144,27.1208,27.4562,83.8764,0.18,0.16
+Europe,Eastern Europe,High,Rural,107,4.6351,49.4878,38.3425,24.6355,25.1837,84.3707,0.2243,0.1215
+Europe,Eastern Europe,High,Semi-urban,108,4.6671,47.8532,37.6889,27.2598,25.7984,85.6599,0.1111,0.1667
+Europe,Eastern Europe,High,Urban,180,4.8082,48.8878,38.3936,28.724,26.1609,84.1979,0.1778,0.1667
+Europe,Eastern Europe,Lower-middle,Rural,15,4.4193,51.3707,37.1393,24.842,24.918,84.9327,0.1333,0.1333
+Europe,Eastern Europe,Lower-middle,Semi-urban,29,4.4938,48.2224,38.1779,26.5703,26.1517,84.8721,0.1034,0.2069
+Europe,Eastern Europe,Lower-middle,Urban,80,4.6301,48.3779,37.9882,28.1478,25.685,85.3601,0.1375,0.1125
+Europe,Eastern Europe,Upper-middle,Rural,30,4.1523,46.6693,36.4127,22.358,24.934,86.4593,0.1667,0.1667
+Europe,Eastern Europe,Upper-middle,Semi-urban,21,4.3962,42.7476,36.1567,27.1614,24.8205,88.4643,0.1429,0.0952
+Europe,Eastern Europe,Upper-middle,Urban,57,4.6891,47.9458,37.6114,28.6507,26.0596,84.4132,0.2456,0.1579
+Europe,Northern Europe,High,Rural,120,4.7153,47.8948,37.5944,25.9295,25.4293,85.8499,0.1167,0.15
+Europe,Northern Europe,High,Semi-urban,103,4.8896,49.3804,38.4216,27.8908,26.7986,83.9192,0.1748,0.2136
+Europe,Northern Europe,High,Urban,253,4.8642,49.9309,38.9172,29.0934,26.3849,83.6974,0.1818,0.1462
+Europe,Southern Europe,High,Rural,102,4.7178,48.5229,37.8545,24.2696,25.4698,85.5201,0.1373,0.1667
+Europe,Southern Europe,High,Semi-urban,85,4.7568,49.9259,38.7052,27.4431,26.8113,84.7473,0.1294,0.0941
+Europe,Southern Europe,High,Urban,202,5.2519,52.5952,40.27,32.8849,27.1284,81.7869,0.2129,0.1238
+Europe,Western Europe,High,Rural,192,4.6292,48.4508,37.667,25.4873,25.2045,85.3486,0.1719,0.125
+Europe,Western Europe,High,Semi-urban,204,4.9289,50.6673,39.1785,29.1153,26.8068,84.0538,0.1127,0.1127
+Europe,Western Europe,High,Urban,417,5.0528,51.0329,39.1942,30.4804,26.6277,83.5869,0.1319,0.1343
+Europe/Asia,Eastern Europe,Upper-middle,Rural,31,4.3771,45.529,36.3794,24.3635,24.2013,87.2355,0.1935,0.0323
+Europe/Asia,Eastern Europe,Upper-middle,Semi-urban,25,4.8376,50.8468,38.696,31.2396,25.1812,81.4668,0.32,0.24
+Europe/Asia,Eastern Europe,Upper-middle,Urban,43,4.7056,50.7453,37.6323,28.6949,25.0084,85.4837,0.0465,0.0465
+North America,Latin America,High,Rural,29,4.5114,49.1972,38.6048,25.6941,24.7869,84.6221,0.2069,0.1724
+North America,Latin America,High,Semi-urban,19,4.99,49.8347,39.0858,31.8363,27.3121,82.2184,0.2105,0.3684
+North America,Latin America,High,Urban,53,5.0483,49.516,38.5951,31.0794,25.526,83.2596,0.1887,0.2075
+North America,Latin America,Upper-middle,Rural,61,4.5967,47.4431,38.0098,27.9852,25.4292,85.8139,0.1475,0.0656
+North America,Latin America,Upper-middle,Semi-urban,81,4.6333,50.2347,38.918,28.1741,25.5731,83.7102,0.1605,0.1605
+North America,Latin America,Upper-middle,Urban,174,4.898,51.1662,39.524,29.9263,26.4896,83.3376,0.1379,0.1379
+North America,North America,High,Rural,52,4.6608,50.2896,39.661,28.4692,25.701,84.5442,0.0962,0.0577
+North America,North America,High,Semi-urban,46,5.1048,49.8863,38.2437,30.9328,26.2396,83.7752,0.1522,0.1957
+North America,North America,High,Urban,105,4.9551,49.961,37.7764,29.8782,26.2306,83.9622,0.2095,0.1238
+Oceania,Oceania,High,Rural,49,4.5033,48.4576,38.8586,27.2882,25.5102,84.3122,0.2041,0.1633
+Oceania,Oceania,High,Semi-urban,43,4.9242,48.46,37.5763,29.3216,24.4684,85.8444,0.093,0.0465
+Oceania,Oceania,High,Urban,116,5.0007,50.6994,39.098,30.0609,26.4359,83.7341,0.1379,0.1379
+Oceania,Oceania,Upper-middle,Rural,17,3.9053,42.8106,34.9735,20.1547,23.1947,88.8059,0.2353,0.0588
+Oceania,Oceania,Upper-middle,Semi-urban,16,4.8212,49.8544,38.2225,32.1169,25.4588,83.5175,0.1875,0.1875
+Oceania,Oceania,Upper-middle,Urban,51,4.7986,50.3722,37.9853,27.3135,26.6794,83.7418,0.2157,0.098
+South America,Latin America,High,Rural,55,4.598,49.9685,39.3333,26.454,25.4536,84.2398,0.2,0.1091
+South America,Latin America,High,Semi-urban,46,4.6224,46.4393,37.7935,26.9454,25.1828,85.6735,0.1957,0.1522
+South America,Latin America,High,Urban,101,4.9693,50.5889,40.2362,31.0986,26.8486,83.1807,0.1485,0.1188
+South America,Latin America,Lower-middle,Rural,30,3.8023,44.46,34.9607,20.2023,24.0893,89.6823,0.0667,0.0333
+South America,Latin America,Lower-middle,Semi-urban,20,4.547,50.1975,39.6135,26.0845,25.933,84.429,0.1,0.05
+South America,Latin America,Lower-middle,Urban,48,4.5006,47.1085,37.4873,24.0392,25.5669,85.7633,0.1667,0.1042
+South America,Latin America,Upper-middle,Rural,151,4.6008,47.8181,38.1089,25.9301,25.7753,85.6571,0.1589,0.106
+South America,Latin America,Upper-middle,Semi-urban,144,4.6168,48.3816,37.6993,26.876,25.7381,85.1656,0.1806,0.125
+South America,Latin America,Upper-middle,Urban,324,4.8043,48.6437,38.235,28.4029,25.6585,84.8176,0.1451,0.1481

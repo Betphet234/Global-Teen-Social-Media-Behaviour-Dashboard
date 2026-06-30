@@ -1,0 +1,99 @@
+country,continent,region,avg_overall_risk,avg_mental_health_risk,avg_addiction_score,avg_sleep_hours,cyberbullying_rate,problematic_use_rate,global_risk_rank_2026
+Portugal,Europe,Southern Europe,37.627,39.9976,52.2653,7.5951,0.2041,0.0918,1
+Spain,Europe,Southern Europe,37.2858,39.8153,50.8348,7.4536,0.1837,0.051,2
+United Kingdom,Europe,Western Europe,37.2272,39.7532,53.6379,7.5689,0.0755,0.0472,3
+Kuwait,Asia,Middle East,37.1709,39.8511,50.8519,7.4563,0.1856,0.0515,4
+China,Asia,East Asia,37.0612,39.8842,51.589,7.5416,0.1215,0.0374,5
+Guatemala,North America,Latin America,36.9305,39.6525,50.9158,7.4848,0.1553,0.0291,6
+Costa Rica,North America,Latin America,36.9285,39.7653,51.0405,7.6096,0.1531,0.0306,7
+United States,North America,North America,36.7862,38.6938,51.0212,7.5237,0.15,0.0583,8
+Uruguay,South America,Latin America,36.7203,39.5097,50.1568,7.5698,0.1504,0.0177,9
+Switzerland,Europe,Western Europe,36.7047,39.1887,50.8967,7.5928,0.161,0.0508,10
+Sweden,Europe,Northern Europe,36.6802,38.822,50.1713,7.51,0.2,0.0211,11
+France,Europe,Western Europe,36.6196,39.2426,50.6096,7.6973,0.12,0.06,12
+Israel,Asia,Middle East,36.6149,39.2829,50.1531,7.6018,0.1633,0.051,13
+Indonesia,Asia,Southeast Asia,36.6134,39.5327,50.0808,7.4944,0.129,0.043,14
+Panama,North America,Latin America,36.591,38.6902,49.4845,7.4833,0.198,0.0198,15
+Italy,Europe,Southern Europe,36.5645,38.8078,51.0307,7.6053,0.16,0.07,16
+Oman,Asia,Middle East,36.521,39.3263,51.664,7.5614,0.0865,0.0673,17
+Turkey,Asia/Europe,Middle East,36.4267,38.7268,50.0817,7.6544,0.219,0.0381,18
+Australia,Oceania,Oceania,36.3552,38.9494,50.9993,7.6528,0.1064,0.0957,19
+Qatar,Asia,Middle East,36.2767,38.9728,50.3184,7.6178,0.1753,0.0309,20
+Belgium,Europe,Western Europe,36.2296,39.2236,50.8843,7.6025,0.1,0.0545,21
+Saudi Arabia,Asia,Middle East,36.1718,39.4118,50.586,7.6979,0.1489,0.0532,22
+Iceland,Europe,Northern Europe,36.1327,38.8737,49.5949,7.6315,0.1596,0.0426,23
+Romania,Europe,Eastern Europe,36.1279,38.5687,49.1968,7.6107,0.1964,0.0536,24
+South Korea,Asia,East Asia,36.118,38.7322,49.7818,7.6377,0.1667,0.0217,25
+United Arab Emirates,Asia,Middle East,36.1051,38.8819,49.0612,7.5644,0.1583,0.025,26
+Iraq,Asia,Middle East,36.0586,38.3351,49.4165,7.6177,0.1963,0.0841,27
+Norway,Europe,Northern Europe,36.0241,39.4136,49.0706,7.5368,0.1591,0.0114,28
+Colombia,South America,Latin America,36.0153,38.9121,50.0241,7.7963,0.1609,0.0345,29
+Ireland,Europe,Western Europe,36.0105,38.1522,48.3956,7.6081,0.1875,0.0417,30
+Singapore,Asia,Southeast Asia,36.0067,39.358,49.1406,7.6109,0.0943,0.0283,31
+Kazakhstan,Asia,Central Asia,35.9882,38.1835,51.4151,7.7766,0.1875,0.0875,32
+Chile,South America,Latin America,35.9279,39.3381,48.6094,7.5334,0.2022,0.0562,33
+Japan,Asia,East Asia,35.9065,38.1075,50.4028,7.7164,0.1852,0.037,34
+Greece,Europe,Southern Europe,35.9017,38.529,49.5741,7.7126,0.1505,0.0108,35
+Austria,Europe,Western Europe,35.9,38.2334,49.8565,7.7313,0.1753,0.0619,36
+New Zealand,Oceania,Oceania,35.7746,38.5437,48.6439,7.5992,0.1754,0.0263,37
+Bahrain,Asia,Middle East,35.7516,38.6638,49.7263,7.6435,0.1585,0.0732,38
+Denmark,Europe,Northern Europe,35.745,38.1645,48.9097,7.6645,0.1619,0.0286,39
+Lebanon,Asia,Middle East,35.6987,38.0223,49.2507,7.7297,0.15,0.08,40
+Uganda,Africa,Sub-Saharan Africa,35.6207,38.7807,49.1236,7.6397,0.2056,0.0467,41
+Pakistan,Asia,South Asia,35.6077,38.335,50.1374,7.6572,0.1215,0.0467,42
+Malaysia,Asia,Southeast Asia,35.5831,38.6644,48.613,7.6243,0.1739,0.0174,43
+Paraguay,South America,Latin America,35.5532,38.5417,47.2781,7.5442,0.1579,0.0421,44
+Poland,Europe,Eastern Europe,35.5379,38.373,48.1987,7.6268,0.134,0.0309,45
+Ghana,Africa,Sub-Saharan Africa,35.4893,38.4342,49.2134,7.5968,0.1238,0.019,46
+Germany,Europe,Western Europe,35.4549,38.4446,48.916,7.6127,0.1613,0.043,47
+Czechia,Europe,Eastern Europe,35.4526,38.0036,48.89,7.7138,0.2255,0.0196,48
+Brazil,South America,Latin America,35.4072,38.0221,49.1009,7.768,0.1624,0.0,49
+Canada,North America,North America,35.3705,37.8896,48.5928,7.7663,0.1928,0.0361,50
+Netherlands,Europe,Western Europe,35.3152,38.1169,48.8009,7.6116,0.1183,0.0108,51
+Senegal,Africa,Sub-Saharan Africa,35.301,38.0098,49.5174,7.7197,0.1776,0.0467,52
+Libya,Africa,North Africa,35.2611,38.1393,48.7381,7.6283,0.1351,0.0901,53
+Mexico,North America,Latin America,35.2539,37.9733,48.8666,7.7043,0.1304,0.0261,54
+Cambodia,Asia,Southeast Asia,35.2245,38.0626,48.0631,7.749,0.19,0.02,55
+Fiji,Oceania,Oceania,35.1998,37.421,48.7432,7.6769,0.2143,0.0357,56
+Thailand,Asia,Southeast Asia,35.1931,38.3229,48.535,7.665,0.1429,0.042,57
+Ukraine,Europe,Eastern Europe,35.1376,37.9299,48.7035,7.7027,0.129,0.0323,58
+Russia,Europe/Asia,Eastern Europe,35.076,37.5086,49.1376,7.5758,0.1616,0.0101,59
+Morocco,Africa,North Africa,35.0695,38.0937,47.1929,7.7511,0.2283,0.0326,60
+Mongolia,Asia,East Asia,35.0564,37.9464,48.6872,7.7375,0.1683,0.0396,61
+Peru,South America,Latin America,35.0245,37.7755,47.4092,7.7108,0.1828,0.0215,62
+Finland,Europe,Northern Europe,35.0162,37.2011,48.7676,7.7804,0.1383,0.0106,63
+Angola,Africa,Sub-Saharan Africa,34.9345,37.9344,47.4894,7.5997,0.1855,0.0323,64
+Cameroon,Africa,Sub-Saharan Africa,34.905,38.1252,48.7604,7.6924,0.1121,0.028,65
+Argentina,South America,Latin America,34.8745,37.3464,47.9963,7.8221,0.1682,0.0374,66
+Kenya,Africa,Sub-Saharan Africa,34.8729,37.9155,48.8386,7.8027,0.1474,0.0421,67
+Ecuador,South America,Latin America,34.8238,38.0559,48.4588,7.5554,0.1167,0.05,68
+Vietnam,Asia,Southeast Asia,34.7912,37.8494,47.74,7.646,0.1009,0.0092,69
+Azerbaijan,Asia,Central Asia,34.7218,37.4912,47.5473,7.7322,0.1122,0.0408,70
+Ethiopia,Africa,Sub-Saharan Africa,34.7121,38.0531,48.1437,7.7548,0.1308,0.0374,71
+Uzbekistan,Asia,Central Asia,34.7067,37.6411,47.1448,7.6103,0.1802,0.036,72
+Hungary,Europe,Eastern Europe,34.7027,37.6863,48.7031,7.7519,0.119,0.0357,73
+South Africa,Africa,Sub-Saharan Africa,34.6986,38.086,48.2575,7.6603,0.0968,0.0323,74
+Tanzania,Africa,Sub-Saharan Africa,34.5921,38.0704,48.2632,7.7197,0.113,0.0348,75
+Nepal,Asia,South Asia,34.5347,37.5324,48.1724,7.6374,0.1518,0.0446,76
+Serbia,Europe,Eastern Europe,34.5298,36.9956,46.5805,7.6781,0.2037,0.0185,77
+Zambia,Africa,Sub-Saharan Africa,34.5278,37.5561,47.8448,7.6414,0.1121,0.0187,78
+Iran,Asia,Middle East,34.4073,37.0758,48.3557,7.7698,0.1224,0.0306,79
+Jordan,Asia,Middle East,34.4018,37.6561,47.0886,7.7225,0.1354,0.0104,80
+Zimbabwe,Africa,Sub-Saharan Africa,34.3828,37.8546,48.6149,7.8804,0.1176,0.0471,81
+Algeria,Africa,North Africa,34.3766,36.9652,47.8713,7.7572,0.1583,0.0167,82
+India,Asia,South Asia,34.2835,38.0096,47.118,7.8311,0.17,0.02,83
+Rwanda,Africa,Sub-Saharan Africa,34.2427,37.5202,48.1147,7.9002,0.1412,0.0353,84
+Sudan,Africa,North Africa,34.0887,37.3459,47.3275,7.7347,0.1204,0.0093,85
+Bangladesh,Asia,South Asia,33.9821,36.9031,46.4366,7.754,0.1818,0.0,86
+Egypt,Africa,North Africa,33.9714,36.7244,47.2892,7.7351,0.156,0.0367,87
+Philippines,Asia,Southeast Asia,33.8026,36.0088,46.2108,7.7869,0.1939,0.0102,88
+Yemen,Asia,Middle East,33.792,37.5601,46.8291,7.7061,0.1026,0.0256,89
+Myanmar,Asia,Southeast Asia,33.624,36.9199,46.4992,7.7741,0.1171,0.018,90
+Sri Lanka,Asia,South Asia,33.6227,36.9584,46.4939,7.715,0.0792,0.0297,91
+Syria,Asia,Middle East,33.6115,37.018,46.9913,7.7937,0.0909,0.0273,92
+Mozambique,Africa,Sub-Saharan Africa,33.4715,36.9601,45.8858,7.6946,0.1545,0.0182,93
+Bolivia,South America,Latin America,33.4573,37.1478,46.9282,7.7965,0.1224,0.0408,94
+Afghanistan,Asia,South Asia,33.447,36.5908,46.0709,7.7394,0.1182,0.0091,95
+Nigeria,Africa,Sub-Saharan Africa,33.4256,36.3155,46.6622,7.8961,0.1667,0.0278,96
+Tunisia,Africa,North Africa,33.2163,36.2139,45.5696,7.7411,0.1188,0.0495,97
+DR Congo,Africa,Sub-Saharan Africa,32.9691,36.4716,46.5534,7.8484,0.087,0.0217,98

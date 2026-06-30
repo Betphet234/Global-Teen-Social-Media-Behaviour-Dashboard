@@ -1,0 +1,18 @@
+continent,region,records,avg_screen_time,avg_addiction_score,avg_mental_health_risk,avg_digital_wellbeing,cyberbullying_rate,harmful_content_rate
+Europe,Southern Europe,389,5.004,50.944,39.295,83.413,0.175,0.129
+North America,Latin America,417,4.799,50.033,38.983,83.801,0.158,0.153
+Europe,Western Europe,813,4.922,50.331,38.83,84.12,0.137,0.127
+Asia/Europe,Middle East,105,4.824,50.082,38.727,83.547,0.219,0.152
+Asia,East Asia,454,4.72,50.112,38.68,84.172,0.161,0.126
+Europe,Northern Europe,476,4.832,49.298,38.476,84.288,0.164,0.162
+Asia,Middle East,1320,4.726,49.198,38.444,84.817,0.143,0.123
+North America,North America,203,4.914,50.028,38.365,84.069,0.167,0.123
+Oceania,Oceania,292,4.797,49.431,38.351,84.427,0.164,0.12
+South America,Latin America,919,4.684,48.467,38.278,85.038,0.157,0.124
+Asia,Southeast Asia,851,4.637,48.099,38.089,85.291,0.142,0.139
+Europe,Eastern Europe,627,4.652,48.378,37.931,84.947,0.169,0.15
+Africa,Sub-Saharan Africa,1547,4.431,48.073,37.749,85.706,0.14,0.123
+Asia,Central Asia,289,4.504,48.463,37.74,85.105,0.159,0.159
+Europe/Asia,Eastern Europe,99,4.636,49.138,37.509,85.018,0.162,0.091
+Asia,South Asia,629,4.406,47.429,37.389,86.044,0.137,0.113
+Africa,North Africa,641,4.395,47.371,37.235,85.865,0.151,0.142

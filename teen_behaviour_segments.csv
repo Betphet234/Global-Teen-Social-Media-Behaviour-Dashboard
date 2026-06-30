@@ -1,0 +1,6 @@
+segment,daily_screen_time_hours,social_media_hours,night_screen_time_hours,sleep_hours,physical_activity_hours,social_media_addiction_score,mental_health_risk_score,academic_risk_score,digital_wellbeing_score,family_support_score,cyberbullying_victim,harmful_content_exposure,records,segment_name
+0,5.94,3.12,1.02,7.4,1.41,55.59,41.7,28.6,75.94,68.38,0.17,1.0,22774,Digitally Active but Supported
+1,4.01,1.94,0.61,8.07,1.69,41.15,33.41,22.48,91.48,69.66,0.05,0.06,55647,Digitally Active but Supported
+2,7.76,4.7,1.52,6.5,1.15,74.37,52.62,36.77,66.56,66.85,0.22,0.19,34661,Sleep Disrupted Heavy Users
+3,6.04,3.16,1.06,7.31,1.38,56.7,42.61,29.2,81.37,68.27,0.0,0.0,66362,Digitally Active but Supported
+4,5.82,3.04,1.0,7.41,1.43,55.24,41.53,28.31,74.57,68.42,1.0,0.0,20556,Digitally Active but Supported
