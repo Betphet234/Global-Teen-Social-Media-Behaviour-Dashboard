@@ -8,12 +8,12 @@ import plotly.express as px
 # LOAD DATA
 # =========================
 
-country_summary = pd.read_csv("data/country_year_summary_2015_2060.csv")
-country_rankings = pd.read_csv("data/global_country_risk_rankings_2026.csv")
-forecast = pd.read_csv("data/global_forecast_2030_2040_2050_2060.csv")
-region_risk = pd.read_csv("data/region_2026_risk_profile.csv")
-urban_rural = pd.read_csv("data/regional_urban_rural_risk_summary_2026.csv")
-segments = pd.read_csv("data/teen_behaviour_segments.csv")
+country_summary = pd.read_csv("country_year_summary_2015_2060.csv")
+country_rankings = pd.read_csv("global_country_risk_rankings_2026.csv")
+forecast = pd.read_csv("global_forecast_2030_2040_2050_2060.csv")
+region_risk = pd.read_csv("region_2026_risk_profile.csv")
+urban_rural = pd.read_csv("regional_urban_rural_risk_summary_2026.csv")
+segments = pd.read_csv("teen_behaviour_segments.csv")
 
 # =========================
 # APP SETUP
